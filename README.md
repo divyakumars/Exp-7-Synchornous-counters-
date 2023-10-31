@@ -102,15 +102,17 @@ UP COUNTER
 
 DOWN COUNTER 
 
+![276817073-89e0c4ca-6147-4f76-88b9-c979707faffb](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/d8e0d462-f4e3-4560-8e87-ffb5d3193aea)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
 UP COUNTER:
-![244931889-cf617a88-0d0c-4486-b5b7-85afb6e4eed8](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/2ab1a898-f4f0-4760-8957-6f749e2859fb)
 
+![276819622-2b03a4a1-69a4-451b-b9b8-0fc08bc0fab3](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/2ebfe0d6-d3ca-4cc5-a97e-8f1454d9ef34)
 
 DOWN COUNTER 
-![image](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/66b16d8d-fcc8-495f-bef2-881a807d97f0)
+![276817136-f8008a80-ae6d-44ef-9f8c-a2f4576a147f](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/6cab247b-28eb-4bc1-b29a-d820f32778e0)
+
 
 
 
