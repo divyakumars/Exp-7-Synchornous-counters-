@@ -98,12 +98,9 @@ endmodule
 ### RTL LOGIC    
 
 UP COUNTER
-![244931874-87e978f7-3a69-429d-b103-97759ddcfaa3](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/51da8258-9f67-4a80-988b-5f025706c1c4)
-
+![image](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/8f948009-e4c0-4714-ac3d-f73ef0e1c087)
 
 DOWN COUNTER 
-![244931880-83caeda7-7ecf-4445-a2a4-4e7a1ff31b7a](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/a1592778-2374-48cf-b170-2c86e0f9c6fe)
-
 
 
 
@@ -113,7 +110,7 @@ UP COUNTER:
 
 
 DOWN COUNTER 
-![244931902-cd9c174e-2ad3-4a5e-8b21-a7218f621308](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/d80a7046-775e-45f1-abd7-4c64ba74c954)
+![image](https://github.com/divyakumars/Exp-7-Synchornous-counters-/assets/119393621/66b16d8d-fcc8-495f-bef2-881a807d97f0)
 
 
 
